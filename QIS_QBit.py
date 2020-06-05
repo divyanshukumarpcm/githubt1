@@ -1,1 +1,1 @@
-print "Sir aaj harsh ka bday hi"
+print ("Sir aaj harsh ka bday hi")
